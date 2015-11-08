@@ -1,0 +1,6 @@
+*
+!/.config
+!/.config/ranger
+!/.config/ranger/rc.conf
+!/.config/ranger/rifle.conf
+!/.config/ranger/scope.sh
